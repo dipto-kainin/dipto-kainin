@@ -16,6 +16,7 @@ I am new here so. I don't have much repository and many of them doesn't have rea
 
 I participated in Smart bengal hackthon twice
 
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvbf9zXRGl4t_G2znnbcAlEtbF0yeguIPUg&s" alt="icon" width="40" height="40" style="border-radius:50%; display:inline-block; vertical-align:middle;">  **SMART BENGAL HACKATHON (RCC IIT, Kolkata)**
 <ul>
 <li>Team Name: <b>NovaByte</b>
