@@ -1,6 +1,6 @@
 # Hi I am  Diptodeep Biswas(aka kainin)
 
-![logo](./Snap.png)
+![logo](./Snippet.png)
 
 # 💫 About Me
 
