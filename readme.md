@@ -53,7 +53,7 @@ I participated in Smart bengal hackthon twice
 
 # 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipto-kainin&show_icons=true&locale=en&layout=compact&count_private=true" alt="soheldatta17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipto-kainin&show_icons=true&locale=en&layout=compact&count_private=true" alt="dipto-kainin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-kainin&" alt="dipto-kainin" /></p>
 
