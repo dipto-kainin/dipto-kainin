@@ -1,64 +1,93 @@
-# Hi I am  Diptodeep Biswas(aka kainin)
+# Hi I am Diptodeep Biswas (aka kainin)
 
 ![logo](./Snippet.png)
 
-# 💫 About Me
+hey, i'm diptodeep — cs undergrad @ rcciit · full-stack dev · i build stuff — sometimes it works on the first try *(rare)*
 
-Hey there, I'm Diptodeep Biswas, a Developer on a journey to master programming for crafting exceptional Systems.
+i'm currently interning at **WhatBytes** slinging React Native, previously at **Capsule Labs** doing full-stack things with FastAPI + React. before that, **Bihar Innovation**, where i learned that REST APIs can always be more RESTful.
 
-I'm a passionate developer who loves to learn new technologies and build cool stuff. I'm currently studying in Rcciit don't worry, by "iit" I mean institute of information and technology.
-
-# ⚠️ Repository Information
-
-I am new here so. I don't have much repository and many of them doesn't have readme so plz don't go harsh on me, as i "still learning". I promise i will make them better in near future.
-
-# 🚀 Hackathon Highlights
-
-I participated in Smart bengal hackthon twice
-
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvbf9zXRGl4t_G2znnbcAlEtbF0yeguIPUg&s" alt="icon" width="40" height="40" style="border-radius:50%; display:inline-block; vertical-align:middle;">  **SMART BENGAL HACKATHON (RCC IIT, Kolkata)**
-<ul>
-<li>Team Name: <b>NovaByte</b>
-    <br>
-    our team secured 2nd place on 17th april by building:- <b><br>a women safety app with mapping,tracking and sos activation using voice and gesture with police headquater , local police and ngo server chat support, safest path, audio video proof and many more.</b>
-    <br>
-    <i><a href="https://drive.google.com/file/d/1TtiiuYWZiuPCtKHG8FTNPdYlsWCQEmBV/view?usp=sharing" target="_blank"> document proof</a></i>
-    <br>
-    <br>
-<li>Team Name: <b>foxhackerz</b>
-    <br>
-  Our team, foxhackerz, secured 5th place on 12th april in the hackathon by buidling :-
-  <br>
-  <b>A secutiy app to lock and encrypt any data, it locks with mouse movement, facial data, norlam encryption, internet lock ,offline.
-  </b>
-  <br>
-  <i><a href="https://drive.google.com/file/d/1wP_lmml95-bcbeVyKrtZuZ2gy_yqPKKm/view?usp=sharing" target="_blank"> document proof</a></i>
-    <br>
-
-</li>
-</ul>
-
-# 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/daikainin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diptodeep-biswas-25a027257/) [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/dipto.biswas.9828/)
+when i'm not coding: mentoring devs on CP, organizing hackathons, or deep in a rabbit hole learning Go.
 
 ---
 
-# 💻 Tech Stack
+## stuff i've built
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**[Kai](https://github.com/dipto-kainin/kai)** — lightweight HTTP framework i wrote in Go from scratch. routing, middleware, path params, the works. yes, i wrote my own framework. no regrets.
+`Go · net/http`
+
+**[IronVine](https://github.com/dipto-kainin/ironvine)** — manga platform. Next.js frontend + NestJS backend + Prisma. built for scalable content delivery with auth and media workflows.
+`TypeScript · NestJS · Prisma · PostgreSQL`
+
+**Women Safety App** *(Smart Bengal Hackathon — 🥈 2nd place, Team NovaByte)* — SOS via voice + gesture, live tracking, safest path routing, police/NGO chat integration, AV proof. shipped in 24h.
+
+**Data Lock App** *(Smart Bengal Hackathon — 5th place, Team foxhackerz)* — encrypts data with mouse movement patterns, facial recognition, offline mode, internet lock. paranoia as a feature.
 
 ---
 
-# 📈 GitHub Stats
+## the stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipto-kainin&show_icons=true&locale=en&layout=compact&count_private=true" alt="dipto-kainin" /></p>
+**languages**
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-kainin&" alt="dipto-kainin" /></p>
+**frontend**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**backend**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+
+**databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+
+**tools**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# GFG problem solving chart
+## beyond code
 
-[![](./image.png)](https://www.geeksforgeeks.org/user/kainin/)
+- **CP Lead @ Unstop** — mentored 500+ people, solved 200+ problems
+- organized **Code Ignition** — coding competitions on LeetCode + Coding Ninjas
+- coordinator for **Techtrix**, the annual college tech fest
+- deployed a live blockchain project on Avalanche @ **Blockchain Day**
+
+---
+
+## github stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-kainin&theme=default" alt="streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipto-kainin&theme=minimal" alt="contribution graph" />
+</p>
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diptodeep-biswas-25a027257/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daikainin/)
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/dipto.biswas.9828/)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaininhop@gmail.com)
