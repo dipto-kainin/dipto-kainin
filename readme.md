@@ -17,8 +17,10 @@ when i'm not coding: mentoring devs on CP, organizing hackathons, or deep in a r
 
 **[IronVine](https://github.com/dipto-kainin/ironvine)** — manga platform. Next.js frontend + NestJS backend + Prisma. built for scalable content delivery with auth and media workflows.
 `TypeScript · NestJS · Prisma · PostgreSQL`
+
 **[RAG Card Game](https://github.com/dipto-kainin/RagGame)** — Rag based card game with ai as the engine TUI based game with key input commands just put your own OSS groq key and play.
 `Python · TUI · LangGraph · RAG · VectorDB`
+
 **Women Safety App** *(Smart Bengal Hackathon — 🥈 2nd place, Team NovaByte)* — SOS via voice + gesture, live tracking, safest path routing, police/NGO chat integration, AV proof. shipped in 24h.
 
 **Data Lock App** *(Smart Bengal Hackathon — 5th place, Team foxhackerz)* — encrypts data with mouse movement patterns, facial recognition, offline mode, internet lock. paranoia as a feature.
