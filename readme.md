@@ -66,15 +66,6 @@ when i'm not coding: mentoring devs on CP, organizing hackathons, or deep in a r
 
 ---
 
-## beyond code
-
-- **CP Lead @ Unstop** — mentored 500+ people, solved 200+ problems
-- organized **Code Ignition** — coding competitions on LeetCode + Coding Ninjas
-- coordinator for **Techtrix**, the annual college tech fest
-- deployed a live blockchain project on Avalanche @ **Blockchain Day**
-
----
-
 ## github stats
 
 <p align="left">
