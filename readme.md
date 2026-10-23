@@ -4,7 +4,7 @@
 
 hey, i'm diptodeep — cs grad @ rcciit · full-stack dev · i build stuff — sometimes it works on the first try *(rare)*
 
-i'm currently interning at **WhatBytes** slinging React Native, previously at **Capsule Labs** doing full-stack things with FastAPI + React. before that, **Bihar Innovation**, where i learned that REST APIs can always be more RESTful.
+i have recently completed internship at **WhatBytes** slinging React Native, previously at **Capsule Labs** doing full-stack things with FastAPI + React. before that, **Bihar Innovation**, where i learned that REST APIs can always be more RESTful.
 
 when i'm not coding: mentoring devs on CP, organizing hackathons, or deep in a rabbit hole learning Go.
 
