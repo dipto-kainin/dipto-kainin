@@ -2,7 +2,7 @@
 
 ![logo](./Snippet.png)
 
-hey, i'm diptodeep — cs undergrad @ rcciit · full-stack dev · i build stuff — sometimes it works on the first try *(rare)*
+hey, i'm diptodeep — cs grad @ rcciit · full-stack dev · i build stuff — sometimes it works on the first try *(rare)*
 
 i'm currently interning at **WhatBytes** slinging React Native, previously at **Capsule Labs** doing full-stack things with FastAPI + React. before that, **Bihar Innovation**, where i learned that REST APIs can always be more RESTful.
 
